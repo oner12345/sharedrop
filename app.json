@@ -3,45 +3,4 @@
     "description": "sharedrop",
     "website": "https://github.com/oner12345/",
     "repository": "https://github.com/oner12345/sharedrop/",
-  "keywords": [
-    "config"
-  ],
-  "stack": "container",
-  "env": {
-    "PORT": {
-      "description": "PORT",
-      "value": "443",
-      "required": false
-    },
-    "SECRET": {
-      "description": "SECRET",
-      "value": "qwerty",
-      "required": false
-    },
-    "FIREBASE_URL": {
-      "description": "FIREBASE_URL",
-      "value": "https://your-firebase.firebaseio.com",
-      "required": false
-    },
-    "FIREBASE_SECRET": {
-      "description": "FIREBASE_SECRET",
-      "value": "qwerty",
-      "required": false
-    },
-    "NEW_RELIC_ENABLED": {
-      "description": "NEW_RELIC_ENABLED",
-      "value": "false",
-      "required": false
-    },
-    "NEW_RELIC_LICENSE_KEY": {
-      "description": "NEW_RELIC_LICENSE_KEY",
-      "value": "qwerty",
-      "required": false
-    },
-    "GOOGLE_ANALYTICS_ID": {
-      "description": "GOOGLE_ANALYTICS_ID",
-      "value": "UA-XXXX-Y",
-      "required": false
-    }
-  }
 }

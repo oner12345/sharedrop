@@ -11,7 +11,7 @@
   "env": {
     "PORT": {
       "description": "PORT",
-      "value": "8000",
+      "value": "443",
       "required": false
     },
     "SECRET": {

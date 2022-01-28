@@ -36,4 +36,4 @@ and push the app to Heroku repo:
 git push heroku master
 ```
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/oner12345/sharedrop/edit/master/)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/oner12345/sharedrop/)
